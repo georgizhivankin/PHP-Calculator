@@ -11,6 +11,6 @@ class Subtraction implements OperatorsInterface
      */
     public function runOperation($number, $result)
     {
-        return $result + $number;
+        return $result - $number;
     }
 }

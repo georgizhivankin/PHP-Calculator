@@ -1,0 +1,19 @@
+{
+    "name": "zhivankin/desk-pro-calculator",
+    "description": "DeskPRO Calculator Test App",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Georgi Zhivankin",
+            "email": "georgijivankin@gmail.com"
+        }
+    ],
+    "autoload": {
+    "psr-4" : {
+        "Zhivankin\\": "src/"
+    }
+},
+    "require": {}
+}
+
+

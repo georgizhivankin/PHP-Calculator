@@ -31,7 +31,6 @@ class Calculator
     }
     
     /** Get result method
-     * 
      */
     public function getResult()
     {
